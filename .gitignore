@@ -1,0 +1,4 @@
+node_modules
+src/server/config/development.ts
+dist/
+public/js/app.js
