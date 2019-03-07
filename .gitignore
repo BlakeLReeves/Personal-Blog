@@ -1,4 +1,4 @@
 node_modules
 src/server/config/development.ts
-dist/
+dist/server.js
 public/js/app.js
